@@ -17,6 +17,7 @@ public class BinarySearch {
     return -1;
     }
     public static int searchInsert(int []a,int x){
+//  merthod to find an element and if not found return the expected index
         int n=a.length-1;
         int low=0;
         while (low<=n){
