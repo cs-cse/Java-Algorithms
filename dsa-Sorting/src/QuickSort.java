@@ -24,6 +24,7 @@ public class QuickSort {
     }
 public static void main(String[] args) {
     int []a={12,4,6,90,34,21,0,-2,4};
-        sort(a,1,6);
+    int n=a.length-1;
+        sort(a,0,n);
 }
 }
