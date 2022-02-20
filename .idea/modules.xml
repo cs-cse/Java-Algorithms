@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Algorithms.iml" filepath="$PROJECT_DIR$/Java-Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/dsa-DynamicProgramming/dsa-DynamicProgramming.iml" filepath="$PROJECT_DIR$/dsa-DynamicProgramming/dsa-DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa-KadanesAlgorithm/dsa-KadanesAlgorithm.iml" filepath="$PROJECT_DIR$/dsa-KadanesAlgorithm/dsa-KadanesAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/dsa-Search/dsa-Search.iml" filepath="$PROJECT_DIR$/dsa-Search/dsa-Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/dsa-Sorting/dsa-Sorting.iml" filepath="$PROJECT_DIR$/dsa-Sorting/dsa-Sorting.iml" />
     </modules>
