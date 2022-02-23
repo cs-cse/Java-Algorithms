@@ -37,3 +37,4 @@ An algorithm is a finite sequence of well-defined instructions, typically used t
 | **Counting sort**     | n + r           | n + r               | n + r               | n + r     | Yes       | r - biggest number in array |
 | **Radix sort**        | n * k           | n * k               | n * k               | n + k     | Yes       | k - length of longest key |
 
+### ⚡[Continue here for Data Structures...](https://github.com/cs-cse/Java-DataStructures)
