@@ -1,16 +1,6 @@
 # Java-Algorithms
 
 An algorithm is a finite sequence of well-defined instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms are used as specifications for performing calculations and data processing.This repository contains **Java** based solutions to many popular algorithms from coding interviews pov.
-### 🔎 [Searching](https://github.com/cs-cse/Java-Algorithms/tree/master/dsa-Search/src)
-* Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored. Based on the type of search operation, these algorithms are generally classified into two categories:
-
-    * Sequential Search: In this, the list or array is traversed sequentially and every element is checked. For example: Linear Search.
-    * Interval Search: These algorithms are specifically designed for searching in sorted data-structures. These type of searching algorithms are much more efficient than Linear Search as they repeatedly target the center of the search structure and divide the search space in half. For Example: Binary Search.
-### 🗂️ [Sorting](https://github.com/cs-cse/Java-Algorithms/tree/master/dsa-Sorting/src)
-* A Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of element in the respective data structure.
-### 💫 [Dynamic Progamming](https://github.com/cs-cse/Java-Algorithms/tree/master/dsa-DynamicProgramming/src)
-* Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later. This simple optimization reduces time complexities from exponential to polynomial. 
-
 
 ### ✅ Below is the list of some of the most used Big O notations and their performance comparisons against different sizes of the input data.
 
@@ -23,6 +13,19 @@ An algorithm is a finite sequence of well-defined instructions, typically used t
 | **O(N^2)**     | Quadratic   | 100                          | 10000                         | 1000000                         |
 | **O(2^N)**     | Exponential | 1024                         | 1.26e+29                      | 1.07e+301                       |
 | **O(N!)**      | Factorial   | 3628800                      | 9.3e+157                      | 4.02e+2567                      |
+
+### 🔎 [Searching](https://github.com/cs-cse/Java-Algorithms/tree/master/dsa-Search/src)
+* Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored. Based on the type of search operation, these algorithms are generally classified into two categories:
+
+    * Sequential Search: In this, the list or array is traversed sequentially and every element is checked. For example: Linear Search.
+    * Interval Search: These algorithms are specifically designed for searching in sorted data-structures. These type of searching algorithms are much more efficient than Linear Search as they repeatedly target the center of the search structure and divide the search space in half. For Example: Binary Search.
+### 🗂️ [Sorting](https://github.com/cs-cse/Java-Algorithms/tree/master/dsa-Sorting/src)
+* A Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of element in the respective data structure.
+### 💫 [Dynamic Progamming](https://github.com/cs-cse/Java-Algorithms/tree/master/dsa-DynamicProgramming/src)
+* Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later. This simple optimization reduces time complexities from exponential to polynomial. 
+
+
+
 ### ✅ Array Sorting Algorithms Complexity
 
 | Name                  | Best            | Average             | Worst               | Memory    | Stable    | Comments  |
