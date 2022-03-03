@@ -24,7 +24,7 @@ public class fibonacci {
         return fib;
     }
     public static void main(String[] args) {
-        System.out.println(recursiveFibonacci(5));
-        System.out.println(iterativeFibonacci(5));
+        System.out.println(recursiveFibonacci(15));
+        System.out.println(iterativeFibonacci(15));
     }
 }
