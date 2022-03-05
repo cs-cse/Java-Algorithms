@@ -15,6 +15,7 @@ class bfs {
                 adj[i] = new LinkedList();
         }
 
+
         // Function to add an edge into the graph
         void addEdge(int v, int w) {
             adj[v].add(w);
